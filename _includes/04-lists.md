@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### my fav things
+1. trees
+2. plants
+  1. all kinds
+  2. every kind
