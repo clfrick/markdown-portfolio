@@ -2,20 +2,9 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+#### The files here include:
+1. 01-name.md
+2. 02-image.md
+3. 03-links.md
+4. 04-lists.md
+5. 05-emphasis.md
